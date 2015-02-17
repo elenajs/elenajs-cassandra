@@ -1,6 +1,6 @@
 {
-    "name": "pg-demo",
-    "amdName": "pgDemo",
+    "name": "cassandra-demo",
+    "amdName": "cassandraDemo",
     "version": "0.0.1",
     "private": true,
     "author": {
