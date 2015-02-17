@@ -1,0 +1,22 @@
+{
+  "name": "elenajs-cassandra",
+  "amdName": "cassandra",
+  "version": "0.0.1",
+  "private": false,
+  "author": {
+    "name": "kiuma",
+    "email": "kiuma72@gmail.com"
+  },
+  "keywords": [
+    "elenajs",
+    "plugin",
+    "cassandra"
+  ],
+  "main": "./lib/main",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "cassandra-driver": "~1.0.3"
+  }
+}

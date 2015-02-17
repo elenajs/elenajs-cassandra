@@ -1,0 +1,19 @@
+{
+    "name": "pg-demo",
+    "amdName": "pgDemo",
+    "version": "0.0.1",
+    "private": true,
+    "author": {
+        "name": "kiuma",
+        "email": "kiuma"
+    },
+    "main": "./lib/demo",
+    "directories": {
+        "lib": "./lib"
+    },
+    "dependencies": {
+        "elenajs": "https://github.com/elenajs/elenajs/archive/develop.tar.gz"
+    }
+    
+    
+}
