@@ -1,12 +1,6 @@
-Test in three separete consoles
+To run the demo:
 
-To start the broker 
-node . 
-
-To start the worker
-node lib/worker 
-
-To start the client
-node lib/client
-
-Order is not important! 
+- call "npm install" to add missing libraries
+- startup cassandra
+- run "csqlsh -f scripts/demo" to create the cassdemo keyspace needed to run the tests
+- run "node ."
